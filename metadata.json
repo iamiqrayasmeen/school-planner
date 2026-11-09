@@ -1,0 +1,6 @@
+{
+  "name": "My Study Planner 🌸",
+  "description": "Aesthetic digital student study journal with daily planner, timetable, task manager, calendar, notes, exam countdown, progress charts, and study goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
